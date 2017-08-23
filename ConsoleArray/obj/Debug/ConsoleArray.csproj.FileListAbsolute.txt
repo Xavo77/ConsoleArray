@@ -1,0 +1,6 @@
+C:\C#\ConsoleArray\ConsoleArray\bin\Debug\ConsoleArray.exe.config
+C:\C#\ConsoleArray\ConsoleArray\bin\Debug\ConsoleArray.exe
+C:\C#\ConsoleArray\ConsoleArray\bin\Debug\ConsoleArray.pdb
+C:\C#\ConsoleArray\ConsoleArray\obj\Debug\ConsoleArray.csprojResolveAssemblyReference.cache
+C:\C#\ConsoleArray\ConsoleArray\obj\Debug\ConsoleArray.exe
+C:\C#\ConsoleArray\ConsoleArray\obj\Debug\ConsoleArray.pdb
